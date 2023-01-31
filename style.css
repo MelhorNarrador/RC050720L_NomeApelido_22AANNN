@@ -1,0 +1,61 @@
+body
+{
+    background-color: grey;
+}
+#Logback
+{
+    border-radius: 25px;
+}
+#Btn_Login
+{
+    border-radius: 10px;
+}
+
+#Textboxemail
+{
+    width: 50%;
+    left: 50%;
+    top: 50%;
+    position: absolute; 
+    transform: translate(-50%, -50%);
+}
+#TxtEmail
+{
+    width: 50%;
+    left: 40%;
+    top: 47%;
+    position: absolute; 
+    transform: translate(-50%, -50%);
+}
+#TxtPassword
+{
+    width: 50%;
+    left: 40%;
+    top: 62%;
+    position: absolute; 
+    transform: translate(-50%, -50%);
+}
+#Textboxpassword
+{
+    width: 50%;
+    left: 50%;
+    top: 65%;
+    position: absolute; 
+    transform: translate(-50%, -50%);
+}
+#Frgtpass
+{
+    width: 50%;
+    left: 40%;
+    top: 68%;
+    position: absolute; 
+    transform: translate(-50%, -50%);
+}
+#Newacc
+{
+    width: 50%;
+    left: 50%;
+    top: 92%;
+    position: absolute; 
+    transform: translate(-50%, -50%);
+}
